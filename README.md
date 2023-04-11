@@ -30,7 +30,7 @@ This is a solution to the [News homepage](https://www.frontendmentor.io/challeng
 ### Links
 
 - Solution URL: [Github](https://github.com/teguhsubiyantoro/newshomepage.git)
-- Live Site URL: [Vercel](https://interactivecarddetails-mb6u-aw2ht1f8u-teguhrm.vercel.app/)
+- Live Site URL: [Vercel](https://newshomepage-26vp.vercel.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ This is a solution to the [News homepage](https://www.frontendmentor.io/challeng
 - Flexbox
 - Image responsive
 - Mobile-first workflow
-
+- Menu toggle Javascript 
 ## Author
 
 - Frontend Mentor - [@teguhrm](https://www.frontendmentor.io/profile/teguhrm)
